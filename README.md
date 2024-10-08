@@ -3,6 +3,8 @@
 This project is my first attempt at building a portable cyberdeck using a Raspberry Pi 4 and a Pelican 1150 case. It’s designed to be fully self-contained, with water-resistant ports, onboard battery power, and cooling fans. My main focus was to create a sleek, functional system for running various scripts and tasks, such as BadUSB attacks, while keeping everything compact and portable.
 In the future I plan to add assembly instructions and electrical shcematics.
 
+![Cyberdeck Build](https://i.imgur.com/6F71S5s.jpeg)
+
 ---
 
 ## Features
