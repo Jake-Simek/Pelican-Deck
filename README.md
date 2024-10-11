@@ -67,7 +67,7 @@ Some of the links may have changed, so the parts may not be *identical*. Everyth
 #### Case and External I/O
 
 - **Pelican Case**: [Pelican 1150 Case](https://shorturl.at/xyr0k)
-- **Water-resistant Panel Mount I/O (sold by Power Signal Data Connector Store on AliExpress)**:
+- **Water-resistant Panel Mount I/O (sold by [Power Signal Data Connector Store](https://www.aliexpress.com/store/1102188024) on AliExpress)**:
   - [External HDMI Port](https://shorturl.at/CyrGC)
   - [External USB Port](https://shorturl.at/Cf8bj)
   - [External USB-C Port](https://shorturl.at/6hTVx)
