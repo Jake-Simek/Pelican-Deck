@@ -48,7 +48,7 @@ In the future, I plan to add assembly instructions to the wiki and more wiring d
 - **Slightly bigger case**: Upgrade to a larger case for better component fit and expansion
 - **New cooling design**: Implement a thermoelectric cooling system to allow operation with the lid closed
 - **Add a trackpad**: Include a built-in trackpad for easier navigation
-- **Improved waterproofing**: Enhance external I/O with more waterproof options
+- **Improved waterproofing**: Make the unit fully submersible when closed and water resistant when open 
 - **Upgrade to Raspberry Pi 5**: Consider switching to a Raspberry Pi 5 for improved performance
 - **Use fasteners instead of glue**: Replace glued components with screw fasteners for a cleaner, more durable assembly
 - **Use SSD for booting**: Switch to an SSD for faster and more reliable booting
