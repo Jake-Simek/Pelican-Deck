@@ -45,6 +45,7 @@ In the future, I plan to add assembly instructions to the wiki and more wiring d
 
 ## Future Goals
 - **Custom 18650 battery pack**: Build a battery pack to fit the case better, provide a longer runtime, and support USB-C PD input and output
+- **Inductive charging**: Incorporate some form of wireless charging just because 
 - **Slightly bigger case**: Upgrade to a larger case for better component fit and expansion
 - **New cooling design**: Implement a thermoelectric cooling system to allow operation with the lid closed
 - **Add a trackpad**: Include a built-in trackpad for easier navigation
